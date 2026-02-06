@@ -32,3 +32,10 @@ print("your age next year is:"+str(int(age)+1))
 
 # age=input("Nextyearyou will be")
 # print(age)
+  v1=input("idk what to write")
+v1=int(v1)
+
+v2=input("i dont know what to write")
+v2=int(v2)
+
+print(v1+ v2)
