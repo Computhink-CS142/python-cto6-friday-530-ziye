@@ -14,7 +14,7 @@ well as a 'for' loop.
 
 ---------------------------------------------------------------
 
-## Task 1: Syntax Errors
+## Task 1: Syntax Erro#rs
 Fix the errors in the following:
 
 **Task 1a**:
@@ -36,7 +36,7 @@ print "Hello, World!"
 
 ---------------------------------------------------------------
 
-## Task 2: Name Errors
+# Task 2: Name Errors
 Fix the errors in the following:
 
 **Task 2a**:
